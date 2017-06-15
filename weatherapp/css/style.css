@@ -1,0 +1,258 @@
+body {
+  background: url(http://www.lakechelan.com/content/uploads/2015/05/chelan_sun-775.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  border: 7px inset green;
+  height: 280px;
+  width: 150px;
+20pt 0pt 20pt 0; 
+    padding: 1em;
+  text-align: left;
+  background: rgba(163, 245, 248, 0.6);
+  vertical-align: left;
+  position: fixed;
+    margin-left: auto;
+    margin-bottom: auto;
+  left: 0em;
+  top: .5em;
+
+  display: block;
+}
+
+h1 {
+  font-family: 'Courier' , sans-serif;
+  color: #0802a7;
+  font-size: 1.75em;
+    padding: .75em;
+}
+h1.city {
+    font-style: oblique;
+}
+h2 {
+    position: fixed;
+    top: 20pt;
+    font-size:15pt; 
+    text-decoration: underline;
+}
+h2.local {
+    top: 5.5em;
+}
+@font-face {
+  font-family: 'weather';
+  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/artill_clean_icons-webfont.eot");
+  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/artill_clean_icons-webfont.eot#iefix") format("embedded-opentype"), url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/artill_clean_icons-webfont.woff") format("woff"), url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/artill_clean_icons-webfont.ttf") format("truetype"), url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/artill_clean_icons-webfont.svg#artill_clean_weather_iconsRg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+i {
+  font-family: weather;
+  font-size: 10em;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1pt;
+  text-transform: none;
+  color: #00854d;
+    background: rgba(255, 255, 255, 0.41);
+    border: 2pt white;
+  
+}
+
+.icon-0:before {
+  content: ":";
+}
+
+.icon-1:before {
+  content: "p";
+}
+
+.icon-2:before {
+  content: "S";
+}
+
+.icon-3:before {
+  content: "Q";
+}
+
+.icon-4:before {
+  content: "S";
+}
+
+.icon-5:before {
+  content: "W";
+}
+
+.icon-6:before {
+  content: "W";
+}
+
+.icon-7:before {
+  content: "W";
+}
+
+.icon-8:before {
+  content: "W";
+}
+
+.icon-9:before {
+  content: "I";
+}
+
+.icon-10:before {
+  content: "W";
+}
+
+.icon-11:before {
+  content: "I";
+}
+
+.icon-12:before {
+  content: "I";
+}
+
+.icon-13:before {
+  content: "I";
+}
+
+.icon-14:before {
+  content: "I";
+}
+
+.icon-15:before {
+  content: "W";
+}
+
+.icon-16:before {
+  content: "I";
+}
+
+.icon-17:before {
+  content: "W";
+}
+
+.icon-18:before {
+  content: "U";
+}
+
+.icon-19:before {
+  content: "Z";
+}
+
+.icon-20:before {
+  content: "Z";
+}
+
+.icon-21:before {
+  content: "Z";
+}
+
+.icon-22:before {
+  content: "Z";
+}
+
+.icon-23:before {
+  content: "Z";
+}
+
+.icon-24:before {
+  content: "E";
+}
+
+.icon-25:before {
+  content: "E";
+}
+
+.icon-26:before {
+  content: "3";
+}
+
+.icon-27:before {
+  content: "a";
+}
+
+.icon-28:before {
+  content: "A";
+}
+
+.icon-29:before {
+  content: "a";
+}
+
+.icon-30:before {
+  content: "A";
+}
+
+.icon-31:before {
+  content: "6";
+}
+
+.icon-32:before {
+  content: "1";
+}
+
+.icon-33:before {
+  content: "6";
+}
+
+.icon-34:before {
+  content: "1";
+}
+
+.icon-35:before {
+  content: "W";
+}
+
+.icon-36:before {
+  content: "1";
+}
+
+.icon-37:before {
+  content: "S";
+}
+
+.icon-38:before {
+  content: "S";
+}
+
+.icon-39:before {
+  content: "S";
+}
+
+.icon-40:before {
+  content: "M";
+}
+
+.icon-41:before {
+  content: "W";
+}
+
+.icon-42:before {
+  content: "I";
+}
+
+.icon-43:before {
+  content: "W";
+}
+
+.icon-44:before {
+  content: "a";
+}
+
+.icon-45:before {
+  content: "S";
+}
+
+.icon-46:before {
+  content: "U";
+}
+
+.icon-47:before {
+  content: "S";
+}
+
